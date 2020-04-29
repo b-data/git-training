@@ -1,0 +1,10 @@
+sources: 
+  - file_name: git-cheat-sheet.pdf
+    url: https://about.gitlab.com/images/press/git-cheat-sheet.pdf
+    date: 2019-11-13
+  - file_name: git-cheat-sheet-education.pdf
+    url: https://education.github.com/git-cheat-sheet-education.pdf
+    date: 2019-11-13
+  - file_name: git-cheatsheet.html
+    url: https://ndpsoftware.com/git-cheatsheet.html
+    date: 2019-11-21

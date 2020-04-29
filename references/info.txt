@@ -1,0 +1,4 @@
+sources: 
+  - file_name: a-successful-git-branching-model.html
+    url: https://nvie.com/posts/a-successful-git-branching-model/
+    date: 2019-11-19
