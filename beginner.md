@@ -32,6 +32,7 @@
    copied when you clone a repository from another computer.
 
 ![git storage areas](figures/git_storage-areas.png)
+
 — [Git - What is Git? > The Three States](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 
 The basic Git workflow goes something like this:
