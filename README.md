@@ -96,8 +96,9 @@ the **Console** tab.
 
 # Setup
 
-First, you are going to clone this project, [configure Git](#configure-git) and
-[generate a SSH key pair](#generate-ssh-key-pair) in RStudio.
+First, you are going to clone this project, [configure Git](#configure-git),
+[generate a SSH key pair](#generate-ssh-key-pair) in RStudio and
+[add the SSH public key](#add-ssh-public-key-to-gitlab) to GitLab.
 
 ## How to clone this project (with HTTPS)
 
@@ -173,6 +174,25 @@ Your public key has been saved in /home/<user>/.ssh/id_rsa.pub.
 :point_right: Accept default values by pressing `Enter`.
 
 ---
+
+## Add SSH public key to GitLab
+
+### In RStudio: Copy SSH public key
+
+Open Menu **"Tools" > "Global Options"**:
+
+*  **"Git/SVN"**
+    *  SSH RSA key: **View public key**    
+        ![global options git/svn](screenshots/rssp_global-options_git-svn.png)  
+        :point_right: Select and press Ctrl+C to copy the key to the clipboard.
+
+### On GitLab: Add SSH public key
+
+Open **"User Settings" > "SSH Keys"** on GitLab CE or
+[GitLab.com](https://gitlab.com/profile/keys), paste your SSH Key into the field
+"Key" and click "Add Key".
+
+![user settings ssh keys](screenshots/gl_user-settings-ssh-keys.png)
 
 # My first repository
 
