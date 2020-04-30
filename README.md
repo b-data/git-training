@@ -1,3 +1,5 @@
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" height = 20 /></a>
+
 # Git training
 
 [This repository](https://gitlab.b-data.ch/git/git-training) contains all
@@ -70,19 +72,19 @@ instead.
 
 # Terminal
 
-The RStudio **Terminal** provides access to the system shell from within the
-RStudio IDE. It supports xterm emulation, enabling use of full-screen terminal
-applications (e.g. text editors, terminal multiplexers) as well as regular
-command-line operations with line-editing and shell history.
-
-There are many potential uses of the shell including advanced source control
-operations, execution of long-running jobs, remote logins, [...]
-
-The **Terminal** tab is next to the **Console** tab. Click on the Terminal tab
-and a new terminal session will be created (if there is not one already).
-
-*  If the tab is not visible, show it via `Shift+Alt+T` (**Tools > Terminal >
-   Move Focus to Terminal**).
+> The RStudio **Terminal** provides access to the system shell from within the
+> RStudio IDE. It supports xterm emulation, enabling use of full-screen terminal
+> applications (e.g. text editors, terminal multiplexers) as well as regular
+> command-line operations with line-editing and shell history.
+> 
+> There are many potential uses of the shell including advanced source control
+> operations, execution of long-running jobs, remote logins, [...]
+> 
+> The **Terminal** tab is next to the **Console** tab. Click on the Terminal tab
+> and a new terminal session will be created (if there is not one already).
+> 
+> *  If the tab is not visible, show it via `Shift+Alt+T` (**Tools > Terminal >
+>    Move Focus to Terminal**).
 
 — [Using the RStudio Terminal - RStudio Support](https://support.rstudio.com/hc/en-us/articles/115010737148-Using-the-RStudio-Terminal)
 
@@ -289,15 +291,15 @@ The naming of features differs a little bit:
 
 **Furthermore**
 
-*  GitLab allows unlimited private repositories for free whereas for GitHub, it
-   is [not free](https://github.com/pricing).  
-   :information_source: As of April 14, 2020, private GitHub repositories with
-   unlimited collaborators are free for everyone.
-*  GitLab has its own CI software (called
-   [GitLab CI](https://about.gitlab.com/product/continuous-integration/)),
-   which removes your reliance on external service like Travis.
+> *  GitLab allows unlimited private repositories for free whereas for GitHub, it
+>    is [not free](https://github.com/pricing)*.
+> *  GitLab has its own CI software (called
+>    [GitLab CI](https://about.gitlab.com/product/continuous-integration/)),
+>    which removes your reliance on external service like Travis.
 
-— Source: [What are the differences between GitHub & GitLab? - Quora](https://www.quora.com/What-are-the-differences-between-GitHub-GitLab)
+— [What are the differences between GitHub & GitLab? - Quora](https://www.quora.com/What-are-the-differences-between-GitHub-GitLab)  
+*As of April 14, 2020, private GitHub repositories with unlimited collaborators
+are free for everyone.
 
 :information_source: See also GitLab’s own comparison
 [GitHub vs GitLab](https://about.gitlab.com/devops-tools/github-vs-gitlab.html).

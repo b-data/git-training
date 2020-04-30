@@ -21,8 +21,8 @@ Aka "[a successful Git branching model](https://nvie.com/posts/a-successful-git-
 has been around since 2010 and is still widely used today. From its extensive
 concept about branching we focus on the two main branches:
 
-![main branches](figures/git_main-branches.png)
-
+> ![main branches](figures/git_main-branches.png)
+> 
 > **The main branches**
 > 
 > At the core, the development model is greatly inspired by existing models out
@@ -362,34 +362,36 @@ Given an existing commit on one branch, apply the change to another branch:
 
 — [Git - Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
 
-#### Adding a tag
-
-To create a new tag execute the following command:
-
-```bash
-git tag <tagname>
-```
-
-Replace `<tagname>` with a semantic identifier to the state of the repository at
-the time the tag is being created.
-
-#### Sharing: Pushing tags to remote
-
-Sharing tags is similar to pushing branches. By default, `git push` will not
-push tags. Tags have to be explicitly passed to `git push`, e.g.:
-
-```bash
-git push origin v1.0
-```
-
-To push multiple tags simultaneously pass the `--tags` option to `git push`
-command:
-
-```bash
-git push --tags
-```
-
-When another user clones or pulls a repo they will receive the new tags.
+> #### Adding a tag
+> 
+> To create a new tag execute the following command:
+> 
+> ```bash
+> git tag <tagname>
+> ```
+> 
+> Replace `<tagname>` with a semantic identifier to the state of the repository
+> at the time the tag is being created.
+> 
+> [...]
+> 
+> #### Sharing: Pushing tags to remote
+> 
+> Sharing tags is similar to pushing branches. By default, `git push` will not
+> push tags. Tags have to be explicitly passed to `git push`, e.g.:
+> 
+> ```bash
+> git push origin v1.0
+> ```
+> 
+> To push multiple tags simultaneously pass the `--tags` option to `git push`
+> command:
+> 
+> ```bash
+> git push --tags
+> ```
+> 
+> When another user clones or pulls a repo they will receive the new tags.
 
 — [Atlassian Git Tutorial - git tag](https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-tag)
 
@@ -452,7 +454,8 @@ If you run git `submodule update --remote`, Git will go into your submodules and
 fetch and update for you. This command will by default assume that you want to
 update the checkout to the master branch of the submodule repository.
 
-— [Git - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+— According to
+[Git - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
 
 :information_source: Check
 [Git - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) for more

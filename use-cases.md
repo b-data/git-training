@@ -33,8 +33,8 @@ So be it.
 As soon as you are sharing a project with colleagues, "[a successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)"
 (also called "Git flow") by Vincent Driessen should be taken into account:
 
-![main branches](figures/git_main-branches.png)
-
+> ![main branches](figures/git_main-branches.png)
+> 
 > **The main branches**
 > 
 > At the core, the development model is greatly inspired by existing models out
@@ -217,8 +217,8 @@ can move between projects or companies and be familiar with a standardised
 workflow.
 
 > Git itself is fairly complex to understand, making the workflow that you use
-with it more complex than necessary is simply adding more mental overhead to
-everybody’s day.
+> with it more complex than necessary is simply adding more mental overhead to
+> everybody’s day.
 
 — Scott Chacon, GitHub
 
@@ -491,9 +491,9 @@ Both create a copy of the project:
 *  **Cloning** on the client, e.g. where RStudio is running
 *  **Forking** on the server, under your own namespace 
 
-From Gitlab [Project forking workflow](https://docs.gitlab.com/ce/user/project/repository/forking_workflow.html):
+According to [Project forking workflow | GitLab](https://docs.gitlab.com/ce/user/project/repository/forking_workflow.html):
 
 > Forking a project to your own namespace is useful if you have no write access
-to the project you want to contribute to. If you do have write access or can
-request it, we recommend working together in the same repository since it is
-simpler.
+> to the project you want to contribute to. If you do have write access or can
+> request it, we recommend working together in the same repository since it is
+> simpler.
