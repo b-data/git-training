@@ -2,7 +2,7 @@
 
 # Git training
 
-[This repository](https://gitlab.b-data.ch/git/git-training) contains all
+[This repository](https://gitlab.com/b-data/git/git-training) contains all
 material used during on-site training sessions for several customers.
 Typically, their setup is as follows:
 
