@@ -78,7 +78,7 @@ project's **Settings > Members**.
     information.
 4.  Click **"Add to project"**.
 
-:information_source: See also [GitLab Help > Project > Members](https://gitlab.b-data.ch/help/user/project/members/index.md).
+:information_source: See also [GitLab Help > Project > Members](https://gitlab.com/help/user/project/members/index.md).
 
 ### Permissions
 
@@ -131,9 +131,9 @@ important actions in a project.
 *  (*1*): Guest users are able to perform this action on public and internal
    projects, but not private projects.
 *  (*2*): Not allowed for Guest, Reporter, Developer, Maintainer, or Owner.  
-   :information_source: See [GitLab Help > Projects > Protected Branches](https://gitlab.b-data.ch/help/user/project/protected_branches.md).
+   :information_source: See [GitLab Help > Projects > Protected Branches](https://gitlab.com/help/user/project/protected_branches.md).
 
-:information_source: See also [GitLab Help > User > Permissions](https://gitlab.b-data.ch/help/user/permissions.md).
+:information_source: See also [GitLab Help > User > Permissions](https://gitlab.com/help/user/permissions.md).
 
 ### Issues
 
@@ -151,7 +151,7 @@ for a variety of other purposes, customized to your needs and workflow.
 *  Accepting feature proposals, questions, support requests, or bug reports
 *  Elaborating on new code implementations
 
-:information_source: See also [GitLab Help > Project > Issues](https://gitlab.b-data.ch/help/user/project/issues/index.md).
+:information_source: See also [GitLab Help > Project > Issues](https://gitlab.com/help/user/project/issues/index.md).
 
 ### Labels
 
@@ -161,7 +161,7 @@ customizable color. They allow you to quickly and dynamically filter and manage
 issues and merge requests you care about, and are visible throughout GitLab in
 most places where issues and merge requests are located.
 
-:information_source: See also [GitLab Help > Project > Labels](https://gitlab.b-data.ch/help/user/project/labels.md).
+:information_source: See also [GitLab Help > Project > Labels](https://gitlab.com/help/user/project/labels.md).
 
 #### New project label
 
@@ -587,13 +587,13 @@ You can create groups for numerous reasons. To name a couple:
 
 *  Grant access to multiple projects and multiple team members in fewer steps
    by organizing related projects under the same
-   [namespace](https://gitlab.b-data.ch/help/user/group/index.md#namespaces) and
+   [namespace](https://gitlab.com/help/user/group/index.md#namespaces) and
    adding members to the top-level group.
 *  Make it easier to `@mention` all of your team at once in issues and merge
    requests by creating a group and including the appropriate members.
 
 :information_source: See also
-[GitLab Help > Groups](https://gitlab.b-data.ch/help/user/group/index.md).
+[GitLab Help > Groups](https://gitlab.com/help/user/group/index.md).
 
 ### Subgroups
 
@@ -608,10 +608,10 @@ By using subgroups you can do the following:
 *  **Organize large projects.** For large projects, subgroups makes it
    potentially easier to separate permissions on parts of the source code.
 *  **Make it easier to manage people and control visibility.** Give people
-  different [permissions](https://gitlab.b-data.ch/help/user/permissions.md#group-members-permissions)
-  depending on their group [membership](https://gitlab.b-data.ch/help/user/group/subgroups/index.md#membership).
+  different [permissions](https://gitlab.com/help/user/permissions.md#group-members-permissions)
+  depending on their group [membership](https://gitlab.com/help/user/group/subgroups/index.md#membership).
 
-:information_source: See also [GitLab Help > Groups > Subgroups](https://gitlab.b-data.ch/help/user/group/subgroups/index.md).
+:information_source: See also [GitLab Help > Groups > Subgroups](https://gitlab.com/help/user/group/subgroups/index.md).
 
 ## FAQ
 
@@ -651,7 +651,7 @@ git push --force
 ```
 
 :information_source: If you intend to _force push_ to either branch _master_ or
-_develop_ you must unprotect it first. See [GitLab Help > Projects > Protected Branches](https://gitlab.b-data.ch/help/user/project/protected_branches.md).
+_develop_ you must unprotect it first. See [GitLab Help > Projects > Protected Branches](https://gitlab.com/help/user/project/protected_branches.md).
 
 If you are working on a project with
 [multiple users](use-cases.md#multiple-users), _force pushing_ might cause
@@ -663,10 +663,10 @@ how to escape a Git mess, step-by-step.
 
 ### How do I export a GitLab project?
 
-Follow the instructions on [GitLab Help > Projects > Settings > Exporting a project and its data](https://gitlab.b-data.ch/help/user/project/settings/import_export.md#exported-contents).  
+Follow the instructions on [GitLab Help > Projects > Settings > Exporting a project and its data](https://gitlab.com/help/user/project/settings/import_export.md#exported-contents).  
 :information_source: You find "Export project" in Settings > General > Advanced.
 
-You may [import the project](https://gitlab.b-data.ch/help/user/project/settings/import_export.md#importing-the-project)
+You may [import the project](https://gitlab.com/help/user/project/settings/import_export.md#importing-the-project)
 back into GitLab at any time. If you are only interested in the Git repository
 itself, follow the instructions below.
 
