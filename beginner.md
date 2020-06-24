@@ -253,38 +253,38 @@ that branch.
 In GitLab, you can create projects for hosting your codebase and collaborate on
 code.  
 :information_source: See also
-[GitLab Help > Projects](https://gitlab.b-data.ch/help/user/project/index.md).
+[GitLab Help > Projects](https://gitlab.com/help/user/project/index.md).
 
 GitLab projects are not just repositories but offer a large number of additional
 features:
 
 **Repositories:**
 
-*  [Repositories](https://gitlab.b-data.ch/help/user/project/repository/index.md):
+*  [Repositories](https://gitlab.com/help/user/project/repository/index.md):
    Host your code in a fully integrated platform
-    *  [Branches](https://gitlab.b-data.ch/help/user/project/repository/branches/index.md):
+    *  [Branches](https://gitlab.com/help/user/project/repository/branches/index.md):
        use Git branching strategies to collaborate on code
-    *  [Protected branches](https://gitlab.b-data.ch/help/user/project/protected_branches.md):
+    *  [Protected branches](https://gitlab.com/help/user/project/protected_branches.md):
        Prevent collaborators from messing with history or pushing code without review
 
 **Issues and merge requests:**
 
-*  [Issue tracker](https://gitlab.b-data.ch/help/user/project/issues/index.md):
+*  [Issue tracker](https://gitlab.com/help/user/project/issues/index.md):
    Discuss implementations with your team within issues
-    *  [Issue Boards](https://gitlab.b-data.ch/help/user/project/issue_board.md):
+    *  [Issue Boards](https://gitlab.com/help/user/project/issue_board.md):
        Organize and prioritize your workflow
-*  [Merge Requests](https://gitlab.b-data.ch/help/user/project/merge_requests/index.md):
+*  [Merge Requests](https://gitlab.com/help/user/project/merge_requests/index.md):
    Apply your branching strategy and get reviewed by your team
-    *  [Merge Request Approvals](https://gitlab.b-data.ch/help/user/project/merge_requests/merge_request_approvals.md):
+    *  [Merge Request Approvals](https://gitlab.com/help/user/project/merge_requests/merge_request_approvals.md):
        Ask for approval before implementing a change
-    *  [Fix merge conflicts from the UI](https://gitlab.b-data.ch/help/user/project/merge_requests/resolve_conflicts.md):
+    *  [Fix merge conflicts from the UI](https://gitlab.com/help/user/project/merge_requests/resolve_conflicts.md):
        Your Git diff tool right from GitLab's UI
 
 **Other features:**
 
-*  [Wiki](https://gitlab.b-data.ch/help/user/project/wiki/index.md):
+*  [Wiki](https://gitlab.com/help/user/project/wiki/index.md):
    document your GitLab project in an integrated Wiki.
-*  [Snippets](https://gitlab.b-data.ch/help/user/snippets.md):
+*  [Snippets](https://gitlab.com/help/user/snippets.md):
    store, share and collaborate on code snippets.
 
 # Next

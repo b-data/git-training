@@ -104,7 +104,7 @@ First, you are going to clone this project, [configure Git](#configure-git),
 
 ## How to clone this project (with HTTPS)
 
-1.  **Copy the project's URL:** `https://gitlab.b-data.ch/git/git-training.git`  
+1.  **Copy the project's URL:** `https://gitlab.com/b-data/git/git-training.git`  
 2.  **In RStudio go to Menu "File" > "New Project" > "Version Control"**  
     ![version control](screenshots/rssp_new-project_version-control.png)
 3.  **Select "Git"**  
@@ -117,7 +117,7 @@ First, you are going to clone this project, [configure Git](#configure-git),
 
 ```bash
 cd ~/projects
-git clone https://gitlab.b-data.ch/git/git-training.git
+git clone https://gitlab.com/b-data/git/git-training.git
 ```
 Open file "[git-training.Rproj](git-training.Rproj)" using RStudio's Files pane
 (bottom right).

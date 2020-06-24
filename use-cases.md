@@ -9,9 +9,9 @@ your RStudio project – with or without GitLab.
 
 According to
 
-*  "[best practice](https://gitlab.b-data.ch/r/best-practice)"
-   [template](https://gitlab.b-data.ch/r/template):
-   See [instructions](https://gitlab.b-data.ch/r/template/-/wikis/home)
+*  "[best practice](https://gitlab.com/b-data/r/best-practice)"
+   [template](https://gitlab.com/b-data/r/template):
+   See [instructions](https://gitlab.com/b-data/r/template/-/wikis/home)
 *  [Clone a project from a Git repository](README.md#clone-your-gitlab-project-with-ssh)
 
 :point_right: When working alone, you can commit and push to a single branch
@@ -106,8 +106,8 @@ users with "Maintainer" permission
 *  it prevents **anyone** from force pushing to the branch
 *  it prevents **anyone** from deleting the branch
 
-:information_source: Read more about [protected branches](https://gitlab.b-data.ch/help/user/project/protected_branches)
-and [project permissions](https://gitlab.b-data.ch/help/user/permissions).
+:information_source: Read more about [protected branches](https://gitlab.com/help/user/project/protected_branches)
+and [project permissions](https://gitlab.com/help/user/permissions).
 
 1.  Navigate to your project's **Settings > Repository**.
 2.  Scroll to find the **Protected branches** section.  
@@ -240,7 +240,7 @@ code.
     ![settings members](screenshots/gl_settings-members-add-to-project.png)
 2.  **Select members to invite**.
 3.  **Coose a role permission**.  
-    :information_source: See [GitLab Help > User > Permissions](https://gitlab.b-data.ch/help/user/permissions.md)
+    :information_source: See [GitLab Help > User > Permissions](https://gitlab.com/help/user/permissions.md)
     for more information.
 4.  Click **"Add to project"**.
 
@@ -480,7 +480,7 @@ Please note that when cherry-picking merge commits, the mainline will always be
 the first parent. If you want to use a different mainline then you need to do
 that from the command line.
 
-— [GitLab Help > User > Project > Merge requests > Cherry pick changes](https://gitlab.b-data.ch/help/user/project/merge_requests/cherry_pick_changes.md)
+— [GitLab Help > User > Project > Merge requests > Cherry pick changes](https://gitlab.com/help/user/project/merge_requests/cherry_pick_changes.md)
 
 # FAQ
 
